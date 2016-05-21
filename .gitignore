@@ -1,0 +1,8 @@
+# ignore patterns via glob syntax
+syntax: glob
+
+# patterns for client components
+node_modules/
+public/bundle*
+temp/
+build/
