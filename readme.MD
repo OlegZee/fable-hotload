@@ -7,7 +7,7 @@ It requires one more additional package `webpack-dev-server`.
 
 To Start project with:
 ```
-npm run dev
+npm run watch
 ```
 
 and head to `http://localhost:8080/webpack-dev-server/`
