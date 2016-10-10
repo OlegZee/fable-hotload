@@ -10,13 +10,13 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "fable-compiler": "^0.2.15",
+    "fable-compiler": "^0.6.15",
     "source-map-loader": "^0.1.5",
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
     "core-js": "^2.4.0",
-    "fable-core": "0.0.23"
+    "fable-core": "^0.6.8"
   }
 }

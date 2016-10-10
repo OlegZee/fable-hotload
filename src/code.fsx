@@ -6,4 +6,4 @@ open Fable.Import
 Node.require.Invoke("core-js") |> ignore
 
 let element = Browser.document.getElementById "sample"
-element.innerText <- "Hello, world!!"
+element.innerText <- "Hello, world!"

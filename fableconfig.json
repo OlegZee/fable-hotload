@@ -10,7 +10,7 @@
     "targets": {
         "watch": {
             "scripts": {
-                "postbuild": "webpack-dev-server --colors --hot"
+                "postbuild-once": "node node_modules/webpack-dev-server/bin/webpack-dev-server --colors --hot"
             }
         }
     }
